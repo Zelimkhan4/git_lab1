@@ -3,6 +3,7 @@ def my_superfunction():
     print("hi Yandex")
     print("YOHOHO")
     print("key_town")
+    print(1)
 
 
 def main():
