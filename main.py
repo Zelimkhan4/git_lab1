@@ -1,8 +1,13 @@
+def printAuthor(author):
+    print(author)
+
+
 def my_superfunction():
     print('What an awesome print!')
     print("hi Yandex")
     print("YOHOHO")
     print("key_town")
+    printAuthor("Zelimkhan")
     print(1)
 
 
